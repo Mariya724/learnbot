@@ -1,0 +1,3 @@
+telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...      #строчка, которая совпадает, ниже нее на видео - WARNING (у меня ее нет)
+root - INFO - Бот запускается                                              #так же не показывает время,дату, да и вообще любые изменения или запуски      
+telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
